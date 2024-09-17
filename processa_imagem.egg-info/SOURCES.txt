@@ -1,0 +1,13 @@
+README.md
+setup.py
+processa_imagem/__init__.py
+processa_imagem.egg-info/PKG-INFO
+processa_imagem.egg-info/SOURCES.txt
+processa_imagem.egg-info/dependency_links.txt
+processa_imagem.egg-info/top_level.txt
+processa_imagem/processing/__init__.py
+processa_imagem/processing/combination.py
+processa_imagem/processing/transformation.py
+processa_imagem/utils/__init__.py
+processa_imagem/utils/io.py
+processa_imagem/utils/plot.py
